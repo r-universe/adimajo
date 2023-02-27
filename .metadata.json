@@ -1,14 +1,13 @@
 [
   {
-    "package": "glmdisc",
-    "oncran": true
-  },
-  {
     "package": "glmtree",
     "oncran": true
   },
   {
     "package": "scoringTools",
     "oncran": true
+  },
+  {
+    "package": "glmdisc"
   }
 ]
