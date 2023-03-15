@@ -1,10 +1,10 @@
 [
   {
-    "package": "glmtree",
-    "oncran": true
+    "package": "glmdisc"
   },
   {
-    "package": "glmdisc"
+    "package": "glmtree",
+    "oncran": true
   },
   {
     "package": "scoringTools",
