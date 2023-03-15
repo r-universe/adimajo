@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "scoringTools",
-    "oncran": true
+    "package": "glmdisc"
   },
   {
-    "package": "glmdisc"
+    "package": "scoringTools",
+    "oncran": true
   }
 ]

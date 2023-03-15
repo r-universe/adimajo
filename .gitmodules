@@ -8,13 +8,13 @@
 	url = https://github.com/adimajo/glmtree
 	shallow = true
 	registered = true
-[submodule "scoringTools"]
-	path = scoringTools
-	url = https://github.com/adimajo/scoringtools
-	shallow = true
-	registered = true
 [submodule "glmdisc"]
 	path = glmdisc
 	url = https://github.com/adimajo/glmdisc
+	shallow = true
+	registered = true
+[submodule "scoringTools"]
+	path = scoringTools
+	url = https://github.com/adimajo/scoringtools
 	shallow = true
 	registered = true
