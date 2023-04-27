@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "glmdisc"]
-	path = glmdisc
-	url = https://github.com/adimajo/glmdisc
-	shallow = true
-	registered = true
 [submodule "glmtree"]
 	path = glmtree
 	url = https://github.com/adimajo/glmtree
