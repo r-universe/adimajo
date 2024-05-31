@@ -5,6 +5,3 @@
 [submodule "glmtree"]
 	path = glmtree
 	url = https://github.com/adimajo/glmtree
-[submodule "scoringTools"]
-	path = scoringTools
-	url = https://github.com/adimajo/scoringtools
